@@ -95,9 +95,10 @@ for i in range(9):
 ```
 ## Output
 
-### Original Image
+### Original and Gray Image
 
-![image](https://github.com/user-attachments/assets/639798dc-9de4-4570-b113-bc8c312ffe84)
+![image](https://github.com/user-attachments/assets/02cdb090-d6ef-4c0d-a175-71ba357f7617)
+
 
 ### Global Thresholding
 
