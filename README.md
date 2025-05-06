@@ -1,4 +1,4 @@
-# THRESHOLDING
+# EX - 8 THRESHOLDING
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
@@ -99,26 +99,37 @@ for i in range(9):
 
 ![image](https://github.com/user-attachments/assets/02cdb090-d6ef-4c0d-a175-71ba357f7617)
 
+### Original and Threshold Image (Binary)
 
-### Global Thresholding
+![image](https://github.com/user-attachments/assets/b919c1b4-e0a1-4a81-ba67-ad9cf4ea56fc)
 
-![image](https://github.com/user-attachments/assets/d2d9e702-f9ea-4e5d-9092-88a7aca07ccd)
+### Original and Threshold Image (Binary Inverse)
 
+![image](https://github.com/user-attachments/assets/6640c4d8-b5a0-432b-b54c-b448281ae1b5)
 
-### Adaptive Thresholding
-<br>
-<br>
-<br>
-<br>
-<br>
+### Original and Threshold Image (To Zero)
 
-### Optimum Global Thesholding using Otsu's Method
-<br>
-<br>
-<br>
-<br>
-<br>
+![image](https://github.com/user-attachments/assets/bfebad05-1d26-42ab-a76b-4cf685cca356)
 
+### Original and Threshold Image (To Zero-Inverse)
+
+![image](https://github.com/user-attachments/assets/bba3d1c9-e755-4374-88ca-b0f2aaebe7be)
+
+### Original and Threshold Image (Truncate)
+
+![image](https://github.com/user-attachments/assets/65473310-bfa1-472c-bd85-9f0426be0d68)
+
+### Original and Otsu
+
+![image](https://github.com/user-attachments/assets/95541f40-2a72-4795-8788-5dec4509c87f)
+
+### Original and Adaptive Threshold (Mean)
+
+![image](https://github.com/user-attachments/assets/a12dffa2-3be8-4e7a-9965-c0a00844c18f)
+
+### Original and Adaptive Threshold (Gaussian)
+
+![image](https://github.com/user-attachments/assets/b0f28e9b-46c7-437d-9deb-cf90b84845df)
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
